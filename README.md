@@ -1,4 +1,4 @@
-# tensorflask
+# Tensorflow AI with flask framework
 This is a simple example of hosting a TensorFlow model as Flask service for inference. It provides the "Poodle, Pug or Weiner Dog?" image identification service using a retrained MobileNet model. The retrained model/labels are provided here to let you run the service locally.
 
 
